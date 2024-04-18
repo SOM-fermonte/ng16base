@@ -1,0 +1,37 @@
+[
+  {
+    "UserID": 1,
+    "First": "Raj",
+    "Last": "Patel",
+    "CityID": 2,
+    "TypeID": 1
+  },
+  {
+    "UserID": 2,
+    "First": "Jane",
+    "Last": "Pausini",
+    "CityID": 3,
+    "TypeID": 2
+  },
+  {
+    "UserID": 3,
+    "First": "Julio",
+    "Last": "Franco",
+    "CityID": 1,
+    "TypeID": 2
+  },
+  {
+    "UserID": 4,
+    "First": "Nancy",
+    "Last": "Workman",
+    "CityID": 1,
+    "TypeID": 2
+  },
+  {
+    "UserID": 5,
+    "First": "Aishwarya",
+    "Last": "Kalahasti",
+    "CityID": 3,
+    "TypeID": 3
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "SalesID": 1,
+    "UserID": 2,
+    "Qty": 45,
+    "Month": 1
+  },
+  {
+    "SalesID": 2,
+    "UserID": 2,
+    "Qty": 20,
+    "Month": 2
+  },
+  {
+    "SalesID": 3,
+    "UserID": 2,
+    "Qty": 59,
+    "Month": 3
+  },
+  {
+    "SalesID": 4,
+    "UserID": 3,
+    "Qty": 20,
+    "Month": 1
+  },
+  {
+    "SalesID": 5,
+    "UserID": 3,
+    "Qty": 25,
+    "Month": 2
+  },
+  {
+    "SalesID": 6,
+    "UserID": 3,
+    "Qty": 30,
+    "Month": 3
+  },
+  {
+    "SalesID": 7,
+    "UserID": 4,
+    "Qty": 10,
+    "Month": 1
+  },
+  {
+    "SalesID": 8,
+    "UserID": 4,
+    "Qty": 50,
+    "Month": 2
+  },
+  {
+    "SalesID": 9,
+    "UserID": 4,
+    "Qty": 70,
+    "Month": 3
+  },
+  {
+    "SalesID": 10,
+    "UserID": 5,
+    "Qty": 35,
+    "Month": 1
+  },
+  {
+    "SalesID": 11,
+    "UserID": 5,
+    "Qty": 30,
+    "Month": 2
+  },
+  {
+    "SalesID": 12,
+    "UserID": 5,
+    "Qty": 35,
+    "Month": 3
+  },
+  {
+    "SalesID": 13,
+    "UserID": 1,
+    "Qty": 10,
+    "Month": 1
+  },
+  {
+    "SalesID": 14,
+    "UserID": 1,
+    "Qty": 11,
+    "Month": 2
+  },
+  {
+    "SalesID": 15,
+    "UserID": 1,
+    "Qty": 13,
+    "Month": 3
+  }
+]
